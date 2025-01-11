@@ -1,6 +1,6 @@
 - I’m @Agentron75🛡️
 - learning python and other🔗
-- Reach me on discord⚒️
+- Reach me on discord by checking my github profile and the user is there⚒️
 
 
 <!---
