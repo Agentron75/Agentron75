@@ -7,7 +7,7 @@
 
 <h3> &nbsp;About Me </h3>
 
-- 🤔 &nbsp; learning allat
+- 🤔 &nbsp; learning to become a good Developer
 
 <br>
 <h3> 🛠 &nbsp; Currently learning: </h3>
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agentron75&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=Agentron75&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agentron75&theme=dark&show_icons=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agentron75&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
