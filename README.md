@@ -1,6 +1,6 @@
 <div align="center">
 <img src="pfp.png" widht="180" height="180" style="border-radius: 100%;">
-<h1 align="center">QwertyL0L</h1>
+<h1 align="center">Agentron75</h1>
 <strong><i>person above is a chad </i></strong>
 </a>
 </div>
