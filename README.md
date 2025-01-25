@@ -25,9 +25,9 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agentron75&theme=dark&show_icons=true" />
+   ![Top Langs](https://github-readme-stats.vercel.app/api?username=Agentron75&theme=dark&show_icons=true")
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agentron75&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agentron75&layout=compact)
 
 </div>
 
@@ -37,6 +37,6 @@
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Agentron75&theme=dark)
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agentron75&theme=merko&line=1391CF&bg_color=20232a&hide_border=true&custom_title=My+Contribution+Graph" width="100%">
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Agentron75&theme=react-dark)]
 
 </div>
