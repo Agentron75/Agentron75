@@ -1,9 +1,15 @@
-- I’m @Agentron75🛡️
-- learning python and other🔗
-- Reach me on discord by checking my github profile and the user is there⚒️
+<div align="center">
+<img src="pfp.png" widht="180" height="180" style="border-radius: 100%;">
+<h1 align="center">QwertyL0L</h1>
+<strong><i>person above is a chad </i></strong>
+</a>
+</div>
 
+# About myself
+I primarily code bots in discord.py
 
-<!---
-Agentron75/Agentron75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Contact Info
+
+• Discord: agentron75 (main account)
+
+you can also check my website for more info : https://agentron75.github.io
