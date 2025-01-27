@@ -25,9 +25,9 @@
 
 <div align="center">
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api?username=Agentron75&theme=dark&show_icons=true")
+   ![Top Langs](https://github-readme-stats.vercel.app/api?username=Kousaka75&theme=dark&show_icons=true")
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agentron75&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kousaka75&layout=compact)
 
 </div>
 
@@ -35,8 +35,8 @@
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Agentron75&theme=dark)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Kousaka75&theme=dark)
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Agentron75&theme=react-dark)]
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kousaka75&theme=react-dark)]
 
 </div>
