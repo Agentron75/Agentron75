@@ -1,12 +1,12 @@
 
+> # About Me:
+<h3 align=center></h3>
+
 <p align="center">
   <a href="https://github.com/saiteja-madha">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Kousaka75%F0%9F%91%8B;I+like+to+Learn+HTML%2C+CSS%2C+Python" alt="Typing SVG" /></a>
   </a>
 </p>
-
-<h3> &nbsp;About Me </h3>
-
 - 🤔 &nbsp; learning to become a good Developer
 
 <br>
